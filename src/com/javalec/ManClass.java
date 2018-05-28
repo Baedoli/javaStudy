@@ -28,38 +28,39 @@ public class ManClass {
 		double result = weight_ / ( height_ * height_);
 		return result;
 	}
-	
-	public int getAge() {
-		return this.age_;
+
+	public int getAge_() {
+		return age_;
 	}
-	
-	public void setAge(int age_) {
+
+	public void setAge_(int age_) {
 		this.age_ = age_;
 	}
-	
-	public int getHeight() {
-		return this.height_;
+
+	public int getHeight_() {
+		return height_;
 	}
-	
-	public void setHeight(int height_) {
+
+	public void setHeight_(int height_) {
 		this.height_ = height_;
 	}
-	
+
 	public int getWeight_() {
-		return this.weight_;
+		return weight_;
 	}
-	
-	public void setWeight(int weight_) {
+
+	public void setWeight_(int weight_) {
 		this.weight_ = weight_;
 	}
-	
-	public String getPhoneMum_() {
-		return this.phoneNum;
+
+	public String getPhoneNum() {
+		return phoneNum;
 	}
-	
+
 	public void setPhoneNum(String phoneNum) {
 		this.phoneNum = phoneNum;
 	}
+	
 	
 	
 }
