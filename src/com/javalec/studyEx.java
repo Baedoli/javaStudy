@@ -6,9 +6,15 @@ public class studyEx {
 		
 		int a_ = 10;
 		int b_ = 20;
+
+		char c_ = 'a';
+		char d_ = 'd';
 		
 		System.out.println(a_);
 		System.out.println(b_);
+		
+		System.out.println(c_);
+		System.out.println(d_);
 		
 	}
 }
