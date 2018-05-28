@@ -6,17 +6,20 @@ public class studyEx {
 		
 		int a_ = 10;
 		int b_ = 20;
+		int e_ = 30;
 
 		char c_ = 'a';
 		char d_ = 'd';
 		
 		// java study ..
+		// git conect ..
 		
 		System.out.println(a_);
 		System.out.println(b_);
 		
 		System.out.println(c_);
 		System.out.println(d_);
+		System.out.println(e_);
 		
 	}
 }
