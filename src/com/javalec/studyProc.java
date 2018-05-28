@@ -15,6 +15,8 @@ public class studyProc {
 		
 	}
 	
+	// iMac test
+	
 	
 	public void sum_(int i) {
 		
