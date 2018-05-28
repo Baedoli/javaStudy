@@ -16,6 +16,16 @@ public class studyEx {
 		// second test ..
 		// fired test ..
 		
+		int i1 = 10;
+		double d1 = 10.0D;
+		
+		d1 = i1;
+		System.out.println("di의 값은 "+d1+"입니다.");
+		
+		i1 = (int)d1;
+		
+		System.out.println("i1의 값은 "+i1+" 입니다.");
+		
 		
 		System.out.println(a_);
 		System.out.println(b_);
