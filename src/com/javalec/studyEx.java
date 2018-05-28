@@ -10,6 +10,8 @@ public class studyEx {
 		char c_ = 'a';
 		char d_ = 'd';
 		
+		// java study ..
+		
 		System.out.println(a_);
 		System.out.println(b_);
 		
