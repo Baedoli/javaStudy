@@ -13,6 +13,7 @@ public class studyEx {
 		
 		// java study ..
 		// git conect ..
+		// second test ..
 		
 		System.out.println(a_);
 		System.out.println(b_);
