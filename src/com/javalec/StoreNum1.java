@@ -9,21 +9,31 @@ public class StoreNum1 extends HeadQuarterStore {
 	
 	@Override
 	public void ordKimchi() {
-		// TO DO Auto-generated method stub
-		System.out.println("4500원");
+		// TODO Auto-generated method stub
+	   System.out.println("4500원");	
 	}
-
+	
 	@Override
 	public void ordBuDae() {
 		// TODO Auto-generated method stub
-		System.out.println("5000원");
+	    System.out.println("5000원");	
 	}
-
+	
+	@Override
+	public void ordBiBim() {
+		// TODO Auto-generated method stub
+		System.out.println("6000원");
+	}
+	
 	@Override
 	public void ordSunDae() {
 		// TODO Auto-generated method stub
 		System.out.println("판매하지 않음");
 	}
 	
-	
+	@Override
+	public void ordGongGi() {
+		// TODO Auto-generated method stub
+		System.out.println("1000원");
+	}
 }

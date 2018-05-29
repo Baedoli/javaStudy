@@ -1,6 +1,6 @@
 package com.javalec;
 
-public class HeadQuarterStore {
+public abstract class HeadQuarterStore {
 
 	public HeadQuarterStore() {
 		// TODO Auto-generated constructor stub
@@ -8,6 +8,13 @@ public class HeadQuarterStore {
 		System.out.println("본사 메뉴입니다.");
 	}
 	
+	public abstract void ordKimchi();
+	public abstract void ordBuDae();
+	public abstract void ordBiBim();
+	public abstract void ordSunDae();
+	public abstract void ordGongGi();
+	
+/*	
 	public void ordKimchi() {
 		// TODO Auto-generated method stub
 		
@@ -33,5 +40,6 @@ public class HeadQuarterStore {
 	public void ordGongGi() {
 		System.out.println("1000원");
 	}
+*/
 	
 }
