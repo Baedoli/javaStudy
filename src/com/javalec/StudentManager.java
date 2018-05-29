@@ -16,6 +16,10 @@ public class StudentManager {
 		sm.addStudent("oh",23,20180102,"가정교육");
 		sm.addStudent("lee",20,20180103,"전산");
 		
+		System.out.println(sm.students.get(0).getName());
+		System.out.println(sm.students.get(1).getName());
+		System.out.println(sm.students.get(2).getName());
+		
 	}
 
 	
