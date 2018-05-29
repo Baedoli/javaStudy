@@ -22,5 +22,4 @@ public class AirPlaneToyClass implements Missile, Light {
 		System.out.println("불빛을 발사 할 수 있습니다.");
 	}
 	
-	
 }
