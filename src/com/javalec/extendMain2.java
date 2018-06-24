@@ -4,14 +4,6 @@ public class extendMain2 {
 
 	public static void main(String[] args) {
 		
-		/*
-		HeadQuarterStore hqs = new HeadQuarterStore();
-		
-		hqs.ordKimchi();
-		hqs.ordBuDae();
-		hqs.ordBiBim();
-		hqs.ordSunDae();
-		hqs.ordGongGi(); */
 		
 		StoreNum1 stn1 = new StoreNum1();
 		stn1.ordKimchi();
